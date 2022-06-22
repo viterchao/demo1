@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 sssaa
+=======
+sss
+bbb
+>>>>>>> version4.0
